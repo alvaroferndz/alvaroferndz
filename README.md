@@ -5,14 +5,12 @@
 Gijón, Asturias, España  
 [LinkedIn](https://www.linkedin.com/in/alvaro-javier-fernández-de-la-concha-a5490b2a9)
 
----
-
-## Sobre mí
-
 Soy graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación. Como es lógico por mi formación, me gusta la tecnología, pero lo que realmente me motiva es su aplicación práctica: cómo llevar las nuevas comunicaciones a procesos industriales y dispositivos de campo.
 
-Me gusta trabajar en equipo. No pretendo saberlo todo; prefiero aprender de los que me rodean y ayudar en lo que pueda.
+Soy de los que prefieren trabajar en equipo, echar una mano siempre que se pueda y, sobre todo, aprender de la gente que sabe más que yo.
 
-Fuera de los protocolos y las redes, mi otra gran pasión es la música. Me interesa mucho cómo se cruza con la tecnología, es un tema que me ocupa bastante tiempo libre. 
+Aparte de los cables y los protocolos, me apasiona el arte y la música. Esa intersección entre lo técnico y lo creativo es lo que realmente me mantiene entretenido fuera de las obligaciones.
 
-Tengo varios proyectos personales y pruebas que he ido haciendo estos años, pero todavía están en esa fase de "caos" poco documentado. A medida que los limpie y los deje presentables, los iré subiendo por aquí por si a alguien le resultan útiles.
+En este espacio iré compartiendo pequeños proyectos de ingeniería, diseño, redes, IoT, ciberseguridad o tecnología aplicada a la música. De momento, mis "pinitos" están todavía un poco desordenados y mal documentados como para que se entiendan bien, pero según los vaya terminando los iré subiendo por aquí. 
+
+Si a alguien le son de utilidad, el objetivo está más que cumplido.
