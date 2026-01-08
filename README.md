@@ -1,60 +1,60 @@
 # Álvaro Javier Fernández De la Concha
 
-### Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación | Estudiante de Máster en Ingeniería de Telecomunicación
+### Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación | MSc in Telecommunications Engineering
 
-[cite_start]📍 Gijón, Asturias, España [cite: 15]
-[cite_start]🔗 [LinkedIn](https://www.linkedin.com/in/alvaro-javier-fernández-de-la-concha-a5490b2a9) [cite: 106]
+📍 Gijón, Asturias, España  
+🔗 [LinkedIn](https://www.linkedin.com/in/alvaro-javier-fernández-de-la-concha-a5490b2a9)
 
 ---
 
 ## 👨‍💻 Sobre mí
-Soy un ingeniero de telecomunicaciones enfocado en la investigación y desarrollo de tecnologías de comunicación de próxima generación. Actualmente compagino mi formación avanzada con una beca de investigación en el ámbito de las redes 5G y la visión artificial.
+Ingeniero de telecomunicaciones especializado en sistemas de telecomunicación. Actualmente enfocado en la investigación de tecnologías de red de próxima generación y el desarrollo de soluciones que integran visión artificial y redes 5G.
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### **Becario de Investigación** | [cite_start]Cátedra Thin5G (Fundación Universidad de Oviedo) [cite: 49, 50]
-[cite_start]*Marzo 2024 – Actualidad* [cite: 51]
-- [cite_start]Colaboración en actividades de I+D en el laboratorio Thin5G[cite: 53].
-- [cite_start]Contribución al desarrollo de tecnologías de comunicación de próxima generación[cite: 54].
+### **Becario de Investigación** | Cátedra Thin5G (Fundación Universidad de Oviedo)
+*Marzo 2024 – Actualidad*
+- Desarrollo de actividades de I+D en el laboratorio Thin5G.
+- Contribución a proyectos de investigación en comunicaciones de próxima generación.
 
 ---
 
 ## 🎓 Educación
 
 ### **Máster en Ingeniería de Telecomunicación (MEng)**
-**Universidad de Oviedo** | [cite_start]*Septiembre 2025 – Junio 2027* [cite: 56, 57]
+**Universidad de Oviedo** | *Septiembre 2025 – Junio 2027*
 
 ### **Grado Bilingüe en Ingeniería de Tecnologías y Servicios de Telecomunicación**
-**Universidad de Oviedo** | [cite_start]*Septiembre 2021 – Octubre 2025* [cite: 58, 59, 61]
-- [cite_start]**Especialidad:** Sistemas de Telecomunicación[cite: 60].
-- [cite_start]**Trabajo de Fin de Grado (TFG):** Gemelos digitales y visión artificial sobre redes 5G[cite: 63].
+**Universidad de Oviedo** | *Septiembre 2021 – Octubre 2025*
+- **Especialidad:** Sistemas de Telecomunicación.
+- **TFG:** Gemelos digitales y visión artificial sobre redes 5G.
 
 ---
 
 ## 📜 Licencias y Certificaciones
 
-- [cite_start]**CCNAv7: Introduction to Networks** – Cisco (Diciembre 2023)[cite: 67, 68, 69].
-- [cite_start]**B2 Linguaskill English Test** – Cambridge Assessment English (Junio 2023)[cite: 72, 73, 74].
+- **CCNAv7: Introduction to Networks** – Cisco (Expedido en diciembre de 2023).
+- **B2 Linguaskill English Test** – Cambridge University Press & Assessment (Expedido en junio de 2023).
 
 ---
 
-## 🤝 Voluntariado y Liderazgo
+## 🤝 Voluntariado y Mentoría
 
-- **Mentor de Estudiantes** | [cite_start]Universidad de Oviedo (*Sep 2023 – Jul 2025*) [cite: 78, 79, 80][cite_start]: Orientación y apoyo a estudiantes de primer año en su transición a la universidad[cite: 82].
-- **Expositor** | [cite_start]Consejería de Ciencia, Industria y Empleo [cite: 83, 84][cite_start]: Presentación de proyectos de la Cátedra Thin5G en la Feria de la Ciencia de Oviedo[cite: 85].
+- **Mentor de Estudiantes** | Universidad de Oviedo (*Sep 2023 – Jul 2025*): Guía y apoyo a estudiantes de primer año en su integración universitaria.
+- **Expositor** | Consejería de Ciencia, Industria y Empleo: Representación de la Cátedra Thin5G en la Feria de la Ciencia de Oviedo, divulgando proyectos de innovación tecnológica.
 
 ---
 
 ## 🛠️ Habilidades y Lenguajes
 
 - **Idiomas:**
-  - [cite_start]**Español:** Nativo o bilingüe[cite: 89, 90].
-  - [cite_start]**Inglés:** Competencia profesional completa[cite: 86, 88].
-- [cite_start]**Tecnologías:** Redes 5G, Visión Artificial, Redes de Datos (CCNA), Gemelos Digitales[cite: 63, 67].
+  - **Español:** Nativo o bilingüe.
+  - **Inglés:** Competencia profesional completa.
+- **Tecnologías:** Redes 5G, Visión Artificial, Arquitecturas de Red (Cisco), Gemelos Digitales.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
