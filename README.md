@@ -8,7 +8,9 @@
 ---
 
 ## 👨‍💻 Sobre mí
-Ingeniero de telecomunicaciones especializado en sistemas de telecomunicación. Actualmente enfocado en la investigación de tecnologías de red de próxima generación y el desarrollo de soluciones que integran visión artificial y redes 5G.
+Ingeniero técnico de telecomunicaciones especializado en sistemas de telecomunicación. 
+
+Interesado actualmente en el sector de innovación en sistemas industriales gracias a redes de última generación.
 
 ---
 
@@ -53,8 +55,3 @@ Ingeniero de telecomunicaciones especializado en sistemas de telecomunicación. 
   - **Español:** Nativo o bilingüe.
   - **Inglés:** Competencia profesional completa.
 - **Tecnologías:** Redes 5G, Visión Artificial, Arquitecturas de Red (Cisco), Gemelos Digitales.
-
----
-
-## 📊 GitHub Stats
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
