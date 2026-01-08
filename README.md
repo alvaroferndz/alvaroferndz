@@ -16,5 +16,5 @@ En este espacio iré compartiendo pequeños proyectos de ingeniería, diseño, r
 Si a alguien le son de utilidad, el objetivo está más que cumplido.
 
 $$
-X(\chi) = \int_{-\infty}^{\infty} {x(t) · e^{j\chi t} dt
+X(\chi) = \int_{-\infty}^{\infty} {x(t) · e^{j\chi t}} dt
 $$
