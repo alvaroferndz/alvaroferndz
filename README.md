@@ -14,3 +14,5 @@ Aparte de los cables y los protocolos, me apasiona el arte y la música. Esa int
 En este espacio iré compartiendo pequeños proyectos de ingeniería, diseño, redes, IoT, ciberseguridad o tecnología aplicada a la música. De momento, mis "pinitos" están todavía un poco desordenados y mal documentados como para que se entiendan bien, pero según los vaya terminando los iré subiendo por aquí. 
 
 Si a alguien le son de utilidad, el objetivo está más que cumplido.
+
+$X(\chi) = \int_{-\infty}^{\infty} {x(t) · e^{j\chi t} dt$
