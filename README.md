@@ -1,7 +1,5 @@
 # Álvaro Javier Fernández De la Concha
 
-### Graduado en Ingeniería de Tecnologías y Servicios de Telecomunicación | MSc in Telecommunications Engineering
-
 Gijón, Asturias, España  
 [LinkedIn](https://www.linkedin.com/in/alvaro-javier-fernández-de-la-concha-a5490b2a9)
 
